@@ -4,7 +4,7 @@ import AvatarPicker from "./AvatarPicker";
 export default function App() {
   const questions = [
     {
-      questionText: "När får man vistas på ett skjutfält",
+      questionText: "När får man vistas på ett skjutfält?",
       answerOptions: [
         {
           answerText: "När du blivit godkänd av verkställande officer",
@@ -43,7 +43,7 @@ export default function App() {
 
     {
       questionText:
-        "Vilket är maxstaffen om man beträder ett avlyst skjutfält?",
+        "Vilket är maxstaffet om man beträder ett avlyst skjutfält?",
       answerOptions: [
         {
           answerText: "Ett halvår",

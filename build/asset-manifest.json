@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.417ee095.chunk.css",
-    "main.js": "/static/js/main.ae7fd9f4.chunk.js",
-    "main.js.map": "/static/js/main.ae7fd9f4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fda65720.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fda65720.js.map",
-    "static/js/2.72369e5e.chunk.js": "/static/js/2.72369e5e.chunk.js",
-    "static/js/2.72369e5e.chunk.js.map": "/static/js/2.72369e5e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ff535fe36fe2cb69e25e2faa0d35526f.js": "/precache-manifest.ff535fe36fe2cb69e25e2faa0d35526f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.417ee095.chunk.css.map": "/static/css/main.417ee095.chunk.css.map",
-    "static/js/2.72369e5e.chunk.js.LICENSE.txt": "/static/js/2.72369e5e.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/static/media/1.be802a97.png",
-    "static/media/2.png": "/static/media/2.604bb91e.png",
-    "static/media/3.png": "/static/media/3.9b0fa1ff.png",
-    "static/media/4.png": "/static/media/4.8835cccd.png",
-    "static/media/5.png": "/static/media/5.d2810d04.png",
-    "static/media/6.png": "/static/media/6.288ef18c.png"
+    "main.css": "/praktik-quiz-1/static/css/main.bd213fd2.chunk.css",
+    "main.js": "/praktik-quiz-1/static/js/main.7c927ffb.chunk.js",
+    "main.js.map": "/praktik-quiz-1/static/js/main.7c927ffb.chunk.js.map",
+    "runtime-main.js": "/praktik-quiz-1/static/js/runtime-main.7f76373d.js",
+    "runtime-main.js.map": "/praktik-quiz-1/static/js/runtime-main.7f76373d.js.map",
+    "static/js/2.72369e5e.chunk.js": "/praktik-quiz-1/static/js/2.72369e5e.chunk.js",
+    "static/js/2.72369e5e.chunk.js.map": "/praktik-quiz-1/static/js/2.72369e5e.chunk.js.map",
+    "index.html": "/praktik-quiz-1/index.html",
+    "precache-manifest.2c6e7d4ced0aac8f8bac75c5245a1701.js": "/praktik-quiz-1/precache-manifest.2c6e7d4ced0aac8f8bac75c5245a1701.js",
+    "service-worker.js": "/praktik-quiz-1/service-worker.js",
+    "static/css/main.bd213fd2.chunk.css.map": "/praktik-quiz-1/static/css/main.bd213fd2.chunk.css.map",
+    "static/js/2.72369e5e.chunk.js.LICENSE.txt": "/praktik-quiz-1/static/js/2.72369e5e.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/praktik-quiz-1/static/media/1.be802a97.png",
+    "static/media/2.png": "/praktik-quiz-1/static/media/2.604bb91e.png",
+    "static/media/3.png": "/praktik-quiz-1/static/media/3.9b0fa1ff.png",
+    "static/media/4.png": "/praktik-quiz-1/static/media/4.8835cccd.png",
+    "static/media/5.png": "/praktik-quiz-1/static/media/5.d2810d04.png",
+    "static/media/6.png": "/praktik-quiz-1/static/media/6.288ef18c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fda65720.js",
+    "static/js/runtime-main.7f76373d.js",
     "static/js/2.72369e5e.chunk.js",
-    "static/css/main.417ee095.chunk.css",
-    "static/js/main.ae7fd9f4.chunk.js"
+    "static/css/main.bd213fd2.chunk.css",
+    "static/js/main.7c927ffb.chunk.js"
   ]
 }
