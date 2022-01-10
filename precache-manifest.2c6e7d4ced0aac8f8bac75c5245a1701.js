@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8f71599e48822f5abc93500a67217d7",
+    "revision": "305ace5fdb314fcc405c127f0ef5a2bf",
     "url": "/praktik-quiz-1/index.html"
   },
   {
-    "revision": "7fa794311bba394e6402",
-    "url": "/praktik-quiz-1/static/css/main.417ee095.chunk.css"
+    "revision": "51c43bedf03207b18a09",
+    "url": "/praktik-quiz-1/static/css/main.bd213fd2.chunk.css"
   },
   {
     "revision": "66968f218dd9d66d0e03",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/praktik-quiz-1/static/js/2.72369e5e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7fa794311bba394e6402",
-    "url": "/praktik-quiz-1/static/js/main.ae7fd9f4.chunk.js"
+    "revision": "51c43bedf03207b18a09",
+    "url": "/praktik-quiz-1/static/js/main.7c927ffb.chunk.js"
   },
   {
     "revision": "a3063d85fa25e530cd06",
